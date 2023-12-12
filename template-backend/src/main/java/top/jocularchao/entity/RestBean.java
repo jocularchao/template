@@ -5,8 +5,8 @@ import lombok.Data;
 /**
  * @author jocularchao
  * @date 2023-12-12 17:30
+ * @description 系统返回的信息类
  */
-/*系统返回的信息类*/
 //具体类型不知道所以要定义泛型类
 @Data
 public class RestBean<T> {
